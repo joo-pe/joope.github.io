@@ -6,7 +6,6 @@ description: 'Professional Engineer'
 meta_description: 'JAVA'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/저장소이름/'
 google_analytics: ''
 disqus: '' #댓글 api 이용시 disqus-id 입력
 mailchimp-list: ''
