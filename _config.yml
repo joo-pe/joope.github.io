@@ -1,1 +1,22 @@
 theme: jekyll-theme-hacker
+
+# Site
+name: 'Joo's Blog'
+description: 'Professional Engineer'
+meta_description: 'JAVA'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/저장소이름/'
+google_analytics: ''
+disqus: '' #댓글 api 이용시 disqus-id 입력
+mailchimp-list: ''
+
+# Authors
+authors:
+  sal:
+    name: joohyung park
+    display_name: 표시될 이름
+    gravatar: 
+    email: joohyung1002@naver.com
+    web: https://joope.github.io
+    description: "정보관리기술사 / 정보시스템수석감리원 / PMP / 펀드투자상담"
