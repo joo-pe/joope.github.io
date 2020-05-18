@@ -8,15 +8,15 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/joo/'
 google_analytics: ''
-disqus: '' #댓글 api 이용시 disqus-id 입력
+disqus: ''
 mailchimp-list: ''
 
 # Authors
 authors:
   sal:
     name: joohyung park
-    display_name: 표시될 이름
+    display_name: joohyung park
     gravatar: 
     email: joohyung1002@naver.com
     web: https://joope.github.io
-    description: "정보관리기술사 / 정보시스템수석감리원 / PMP / 펀드투자상담"
+    description: "skill Hub"
